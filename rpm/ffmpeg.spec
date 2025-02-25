@@ -143,6 +143,7 @@ rm -rf $RPM_BUILD_ROOT/%{_datadir}/%{name}/examples
 %{_includedir}/libavutil/adler32.h
 %{_includedir}/libavutil/aes.h
 %{_includedir}/libavutil/aes_ctr.h
+%{_includedir}/libavutil/ambient_viewing_environment.h
 %{_includedir}/libavutil/attributes.h
 %{_includedir}/libavutil/audio_fifo.h
 %{_includedir}/libavutil/avassert.h
